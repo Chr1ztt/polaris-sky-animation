@@ -1,7 +1,20 @@
+# POLARIS SKY ANIMATION USING GLUT
+
+<br>
+
+> By Christian Adi Ananta
+
+<br><br>
+
 ## With House 
 
-![withhouse-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/7746ae9d-570e-405c-9d81-243aebbea3dd)
+
+<div align="center"> 
+  <img  width="100%" src="https://github.com/user-attachments/assets/7746ae9d-570e-405c-9d81-243aebbea3dd"  /> 
+</div>
 
 ## Without House
 
-![withouthouse-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/c7420fd0-72c3-4aa8-b3a4-7758daa42a50)
+<div align="center"> 
+  <img  width="100%" src="https://github.com/user-attachments/assets/c7420fd0-72c3-4aa8-b3a4-7758daa42a50" /> 
+</div>
